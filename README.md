@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GarvGarg3
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning html-css
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 reach me through email
 
 <!---
 GarvGarg3/GarvGarg3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
